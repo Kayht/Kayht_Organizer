@@ -1,4 +1,10 @@
+# Genshin Impact
+
+![Genshin Impact logo](Pictures/GI_logo.png)
+
 # Characters to upgrade
+
+
 
 * [Yoimiya](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Yoimiya)
 * [Thomas](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Thomas)
