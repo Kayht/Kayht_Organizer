@@ -16,11 +16,20 @@ Listes de recettes et ingrédients:
 
 # Risotto au potiron {#risotto-au-potiron}
 
+![Photo](Pictures/risotto_au_potiron.png)
+
 [Lien internet](https://www.marmiton.org/recettes/recette_risotto-au-potiron_12764.aspx)
 
 ## Notes
 
-Mettre le riz sans le potimarron (sinon ne cuit pas :3)
+Mettre le riz sans le potimarron (sinon ne cuit pas :3)  
+
+## A tester
+
+1. Mettre le riz sans le potimarron (sinon ne cuit pas :3)  
+2. Ajouter petit pois
+3. Ajouter tofu
+4.
 
 ## Ingrédients
 
@@ -48,6 +57,8 @@ Quand le potiron est défait, versez le riz et faites-le cuire pendant 18 minute
 Ajoutez le lait, mélangez à feu vif, ajouter le poivre, le persil et une bonne dose de parmesan. Mélangez rapidement avant de servir de façon que tous les ingrédients soient parfaitement amalgamés.
 
 # Tagliatelle à la crème de poireaux {#tagliatelle-a-la-creme-de-poireaux}
+
+![Tagliatelle à la crème de poireaux](Pictures/Tagliatelle_a_la_creme_de_poireaux.png)
 
 [Lien internet](https://www.marmiton.org/recettes/recette_tagliatelles-a-la-creme-de-poireaux_20838.aspx)
 
