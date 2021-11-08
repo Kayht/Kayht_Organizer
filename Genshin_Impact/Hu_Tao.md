@@ -33,7 +33,7 @@ Stats: HP > Taux critique > Dégâts critiques > Energie recharge
 
 * Fleur :   **A CHANGER** & **A Upgrade**
 * Plume : **A CHANGER** & **A Upgrade**
-* Sablier : **A CHANGER** & **A Upgrade**
+* Sablier : **Secondary stat à changer** & **A Upgrade**
 * Coupe : **A CHANGER** & **A Upgrade**
 * Couronne :  **A CHANGER** & **A Upgrade**
 
