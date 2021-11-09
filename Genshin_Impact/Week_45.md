@@ -10,27 +10,29 @@
 
 # Tuesday
 
-* Donjon
-  * Arme : Croc brisé du loup boréal
+* Arme : Croc brisé du loup boréal
+* Fleur de soie
 
 # Wednesday
 
 * Artifacts
+* Champignon fluorescent
 
 # Thursday
 
-* Aptitudes
+* Leveling
+* Fleur de soie
 
 # Friday
 
-* Leveling
+* Aptitudes
 
 # Saturday
 
 * Leveling
 * Artifacts
+* Fleur de soie
 
 # Sunday
 
 * Aptitudes
-* Arme : Croc brisé du loup boréal

@@ -7,17 +7,27 @@
 - [ ] Level 80+  
 - [ ] Aptitudes lvl 7  
 - [ ] Artifacts  
-- [ ] Weapon lvl 90
+- [x] Weapon lvl 90
 
 # Leveling
 
-[50/80]
+[60/80]
+* Cristaux
+  * 6 Pierres
+  * 7 Morceaux
+* 33 Jade juvénile
+* 109 Fleur de soie
+* Mobs
+  * 26 Nectars
 
 # Aptitudes
 
-* Auto attack [2/7]
-* E [2/7]
-* A [2/7]
+* Auto attack [4/7]
+* E [4/7]
+* A [4/7]
+
+*
+
 
 # Artifacts
 
@@ -40,4 +50,4 @@ Stats: HP > Taux critique > Dégâts critiques > Energie recharge
 # Weapon
 
 - [x] Weapon bought
-- [ ] Weapon lvl 90
+- [x] Weapon lvl 90

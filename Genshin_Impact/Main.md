@@ -4,14 +4,26 @@
 
 # Characters to upgrade
 
+## Hu Tao Team
 
+* [Hu Tao](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Hu_Tao)
+* [Xingqiu](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Xingqiu)
+* [Thomas](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Thomas)
+* [Ningguang](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Ningguang)
+
+## Yoimyia Team
 
 * [Yoimiya](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Yoimiya)
-* [Thomas](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Thomas)
-* [Hu Tao](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Hu_Tao)
-* [Eula](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Eula)
 * [Shogun](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Shogun)
-* [Xingqiu](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Xingqiu)
+* [Bennett](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Bennett)
+* [Noëlle](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Noëlle)
+
+## Eula Team
+
+* [Eula](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Eula)
+* [Fishl](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Fishl)
+* [Rosaria](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Rosaria)
+* [Barbara](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Barbara)
 
 # Summary
 
