@@ -16,23 +16,35 @@
 # Wednesday
 
 * Artifacts
-* Champignon fluorescent
+* Champignon fluorescent (Thomas)
+* Lys verni (Ningguang)
+* Champignon anémophile (Barbara)
 
 # Thursday
 
 * Leveling
-* Fleur de soie
+* Fleur de soie (Hu Tao)
+* Tombaie (Rosaria/Noëlle)
+* Artefact routes
 
 # Friday
 
 * Aptitudes
+* Champignon fluorescent (Thomas)
+* Lys verni (Ningguang)
+* Champignon anémophile (Barbara)
 
 # Saturday
 
 * Leveling
 * Artifacts
-* Fleur de soie
+* Fleur de soie (Hu Tao)
+* Tombaie (Rosaria/Noëlle)
+* Artefact routes
 
 # Sunday
 
 * Aptitudes
+* Champignon fluorescent (Thomas)
+* Lys verni (Ningguang)
+* Champignon anémophile (Barbara)
