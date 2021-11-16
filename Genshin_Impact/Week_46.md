@@ -26,26 +26,18 @@
 
 * Aptitudes Thomas
 * Fleurs mensongères
-* Fleurs de soies
-* Champignons anémophiles
 
 # Friday
 
 * Aptitudes Hu Tao
-* Fatuis
 * Champignons fluorescents
 * Tombaies
 
 # Saturday
 
 * Géosaure antique
-* Pilleurs de trésors
-* Fleurs de soies
-* Champignons anémophiles
 
 # Sunday
 
 * Aptitudes Hu Tao
 * Fleurs mensongères
-* Fleurs de soies
-* Champignons anémophiles
