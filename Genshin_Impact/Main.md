@@ -25,6 +25,32 @@
 * [Rosaria](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Rosaria)
 * [Barbara](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Barbara)
 
+## Floor 11 Team
+
+* [Xingqiu](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Xingqiu)
+* [Sucrose](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Sucrose)
+* [Hu Tao](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Hu_Tao)
+* [Thomas](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Thomas)
+
++++++++++
+
+* [Barbara](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Barbara)
+* [Diona](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Diona)
+* [Eula](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Eula)
+* [Shogun](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Shogun)
+
+# Need
+
+* Artefact Thomas
+* Artefact Sucrose
+* Artefact Barbara
+* Artefact Diona
+* Artefact Barbara
+* Lvl arme Diona
+* lvl arme Thomas
+* lvl arme Barbara
+* Rafinnement Arme Shogun
+
 # Summary
 
 # [Week 45](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Week_45)
