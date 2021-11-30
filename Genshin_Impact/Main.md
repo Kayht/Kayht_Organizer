@@ -48,7 +48,6 @@
 * Artefact Barbara
 * Lvl arme Diona
 * lvl arme Thomas
-* lvl arme Barbara
 * Rafinnement Arme Shogun
 
 # Summary

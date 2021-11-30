@@ -17,13 +17,9 @@
 
 # Thursday
 
-* lvl Barbara
-
-
 
 # Friday
 
-* lvl arme Barbara
 
 
 # Saturday
