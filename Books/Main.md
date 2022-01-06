@@ -4,10 +4,14 @@
 
 # 2021
 
-* The Hobbit
-* L'anomalie
-* Le Crépuscule et l'Aube (383/840)
-* TLOTR Tome 1
+* L'anomalie (xx.06.2021)
+* Le Crépuscule et l'Aube (383/840) (xx.09.2021)
+* The Hobbit (xx.10.2021)
+* TLOTR Tome 1 (04.12.2021)
+
+# 2022
+
+* TLOTR Tome 2 
 
 # List of book to read
 
