@@ -11,3 +11,5 @@
 # [Fire emblem Heroes](https://kayht.github.io/Kayht_Organizer/Feh/Main)
 
 # [Genshin Impact](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Main)
+
+# [Musique](https://kayht.github.io/Kayht_Organizer/Musique/Main)
