@@ -11,7 +11,7 @@
 
 # 2022
 
-* TLOTR Tome 2 
+* TLOTR Tome 2
 
 # List of book to read
 
@@ -62,3 +62,9 @@ FAT
 * [Leviathan](https://www.manga-news.com/index.php/serie/Leviathan-Ki-oon)
 
 * [Vagabond](https://www.leslibraires.fr/livre/825738-vagabond-2-vagabond-t02-takehiko-inoue-delcourt)
+
+* The Legend of Zelda Twilight Princess
+  * Tome [8/10]
+
+* Shingeki no Kyujin
+  * Tome [5/34]
