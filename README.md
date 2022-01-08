@@ -13,3 +13,9 @@
 # [Genshin Impact](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Main)
 
 # [Musique](https://kayht.github.io/Kayht_Organizer/Musique/Main)
+
+# [Film](https://kayht.github.io/Kayht_Organizer/Film/Main)
+
+# [Séries](https://kayht.github.io/Kayht_Organizer/Series/Main)
+
+# [Animes](https://kayht.github.io/Kayht_Organizer/Animes/Main)

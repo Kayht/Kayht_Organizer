@@ -34,11 +34,13 @@
 
 * [La plus secrète mémoire des hommes](https://www.leslibraires.fr/livre/18955840-la-plus-secrete-memoire-des-hommes-prix-goncou--mohamed-mbougar-sarr-philippe-rey)
 
-* [L'Etranger](https://www.leslibraires.fr/livre/16677866-l-etranger-camus-albert-galimard)
+* [*L'Etranger*](https://www.leslibraires.fr/livre/16677866-l-etranger-camus-albert-galimard)
 
 * [Les gens heureux lisent et boivent du café](https://www.leslibraires.fr/livre/15651600-les-gens-heureux-lisent-et-boivent-du-cafe-agnes-martin-lugand-pocket)
 
-* [Premier Sang](https://www.leslibraires.fr/livre/18933089-premier-sang-amelie-nothomb-albin-michel)
+* [*Premier Sang*](https://www.leslibraires.fr/livre/18933089-premier-sang-amelie-nothomb-albin-michel)
+
+* [*S'adapter*](https://www.editions-stock.fr/livres/la-bleue/sadapter-9782234089549)
 
 ## Science
 
@@ -59,7 +61,7 @@ FAT
 
 ## Manga
 
-* [Leviathan](https://www.manga-news.com/index.php/serie/Leviathan-Ki-oon)
+* [*Leviathan*](https://www.manga-news.com/index.php/serie/Leviathan-Ki-oon)
 
 * [Vagabond](https://www.leslibraires.fr/livre/825738-vagabond-2-vagabond-t02-takehiko-inoue-delcourt)
 
