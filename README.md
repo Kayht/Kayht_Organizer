@@ -19,3 +19,5 @@
 # [Séries](https://kayht.github.io/Kayht_Organizer/Series/Main)
 
 # [Animes](https://kayht.github.io/Kayht_Organizer/Animes/Main)
+
+# [Jeux vidéos](https://kayht.github.io/Kayht_Organizer/Jeux_video/Main)
