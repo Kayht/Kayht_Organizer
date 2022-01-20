@@ -11,7 +11,15 @@
 
 # 2022
 
-* TLOTR Tome 2
+* TLOTR Tome 2 (**19.01.2022**)
+* TLOTR Tome 3 (fin mars)
+* L'étranger (début mars)
+* Les enfants de Hurin (fin mars)
+* Amélie Nothomb ou D'adapter (début avril)
+* La cinquième saison (début mai)
+* Amélie Nothomb ou D'adapter (mi mai)
+* Leviathan
+
 
 # List of book to read
 
@@ -21,7 +29,7 @@
 
 * ***The Hobbit***
 * ***TLOTR Tome 1***
-* *TLOTR Tome 2*
+* ***TLOTR Tome 2***
 * *TLOTR Tome 3*
 * *Les enfants de Hurin*
 
