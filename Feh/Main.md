@@ -6,4 +6,5 @@
 
 # Units to build
 
+* [Yen'Fay](https://kayht.github.io/Kayht_Organizer/Feh/Units/Yen'fay)
 * [Shamir](https://kayht.github.io/Kayht_Organizer/Feh/Units/Ninja_Shamir)
