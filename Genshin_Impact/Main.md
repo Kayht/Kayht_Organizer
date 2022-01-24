@@ -57,3 +57,39 @@
 # [Week 47](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Week_47)
 # [Week 48](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Week_48)
 # [Week 49](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Week_49)
+
+# Summon summary
+
+## Meilleur scénario (double 50/50 win à la pity)
+
+* 50/50 sur Ayato (30 voeux)
+* 50/50 sur Kazuha (90 voeux)
+
+TOTAL : 120 voeux
+
+## Bon scénario (win sur 1 50/50 à la pity)
+
+### Scénario Ayato wins
+
+* 50/50 sur Ayato (30 voeux)
+* 50/50 raté pour Kazuha (90 voeux)
+* Kazuha (90 voeux)
+
+TOTAL : 210 voeux
+
+### Scénario Ayato loose
+
+* 50/50 raté pour Ayato (30 voeux)
+* Ayato (90 voeux)
+* 50/50 sur Kazuha (90 voeux)
+
+TOTAL : 210 voeux
+
+## Pire scénario
+
+* 50/50 raté pour Ayato (30 voeux)
+* Ayato (90 voeux)
+* 50/50 raté pour Kazuha (90 voeux)
+* Kazuha (90 voeux)
+
+TOTAL : 300 voeux
