@@ -4,21 +4,21 @@
 
 # 2021
 
-* L'anomalie (xx.06.2021)
+* L'anomalie (**xx.06.2021**)
 * Le Crépuscule et l'Aube (383/840) (xx.09.2021)
-* The Hobbit (xx.10.2021)
-* TLOTR Tome 1 (04.12.2021)
+* The Hobbit (**xx.10.2021**)
+* TLOTR Tome 1 (**04.12.2021**)
 
 # 2022
 
 * TLOTR Tome 2 (**19.01.2022**)
-* L'étranger (fin janvier)
-* TLOTR Tome 3 (fin mars)
-* Les enfants de Hurin (fin mars)
+* L'étranger (**31.01.2022**)
+* Leviathan (**30.01.2022**)
+* TLOTR Tome 3 (28.01.2022 - fin mars)
 * Amélie Nothomb ou D'adapter (début avril)
-* La cinquième saison (début mai)
+* Les enfants de Hurin (fin mars)
 * Amélie Nothomb ou D'adapter (mi mai)
-* Leviathan
+* La cinquième saison (début mai)
 
 
 # List of book to read
@@ -72,7 +72,7 @@ FAT
 
 ## Manga
 
-* [*Leviathan*](https://www.manga-news.com/index.php/serie/Leviathan-Ki-oon)
+* [**Leviathan**](https://www.manga-news.com/index.php/serie/Leviathan-Ki-oon)
 
 * [Vagabond](https://www.leslibraires.fr/livre/825738-vagabond-2-vagabond-t02-takehiko-inoue-delcourt)
 
