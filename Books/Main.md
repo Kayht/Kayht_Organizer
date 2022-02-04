@@ -45,25 +45,17 @@
 ## Littérature
 
 * [La plus secrète mémoire des hommes](https://www.leslibraires.fr/livre/18955840-la-plus-secrete-memoire-des-hommes-prix-goncou--mohamed-mbougar-sarr-philippe-rey)
-
 * [*L'Etranger*](https://www.leslibraires.fr/livre/16677866-l-etranger-camus-albert-galimard)
-
 * [Les gens heureux lisent et boivent du café](https://www.leslibraires.fr/livre/15651600-les-gens-heureux-lisent-et-boivent-du-cafe-agnes-martin-lugand-pocket)
-
 * [*Premier Sang*](https://www.leslibraires.fr/livre/18933089-premier-sang-amelie-nothomb-albin-michel)
-
 * [*S'adapter*](https://www.editions-stock.fr/livres/la-bleue/sadapter-9782234089549)
 
 ## Science
 
 * [Le grand bordel de l'évolution](https://www.leslibraires.fr/livre/14562400-le-grand-bordel-de-l-evolution-la-science-impe--leo-grasset-flammarion)
-
 * [Le Coup de la girafe - Des savants dans la savane](https://www.leslibraires.fr/livre/18642481-le-coup-de-la-girafe-des-savants-dans-la-savane-leo-grasset-points)
-
 * [LA CAUSALITÉ DANS LES SCIENCES BIOLOGIQUES ET MÉDICALES](https://laboutique.edpsciences.fr/produit/994/9782759820467/la-causalite-dans-les-sciences-biologiques-et-medicales)
-
 * [101 secrets de l’ADN](https://www.cnrseditions.fr/catalogue/biologie-et-sante/101-secrets-de-l-adn/)
-
 * [Biologie : l’ère numérique](https://www.cnrseditions.fr/catalogue/biologie-et-sante/biologie-lere-numerique/)
 
 ## Société
@@ -74,13 +66,13 @@ FAT
 ## Manga
 
 * [**Leviathan**](https://www.manga-news.com/index.php/serie/Leviathan-Ki-oon)
-
 * The Legend of Zelda Twilight Princess
   * Tome [8/10]
-
 * Shingeki no Kyujin
   * Tome [5/34]
-
 * Ocarina of Time
-
 * Final Fantasy
+* Elfen Lied
+  * Tome [0/4]
+* Made in Abyss
+  * Tome [0/]
