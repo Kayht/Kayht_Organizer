@@ -14,6 +14,7 @@
 * TLOTR Tome 2 (**19.01.2022**)
 * L'étranger (**31.01.2022**)
 * Leviathan (**30.01.2022**)
+* Ocarina of time (**05.02.2022**)
 * TLOTR Tome 3 (28.01.2022 - fin mars)
 * Amélie Nothomb ou D'adapter (début avril)
 * Les enfants de Hurin (fin mars)
@@ -74,10 +75,12 @@ FAT
 
 * [**Leviathan**](https://www.manga-news.com/index.php/serie/Leviathan-Ki-oon)
 
-* [Vagabond](https://www.leslibraires.fr/livre/825738-vagabond-2-vagabond-t02-takehiko-inoue-delcourt)
-
 * The Legend of Zelda Twilight Princess
   * Tome [8/10]
 
 * Shingeki no Kyujin
   * Tome [5/34]
+
+* Ocarina of Time
+
+* Final Fantasy
