@@ -2,61 +2,77 @@
 
 ![Genshin Impact logo](Pictures/GI_logo.png)
 
-# Characters to upgrade
+## Things to do
 
-## Hu Tao Team
+* Mona
+  * Aptitude 3/6/6 --> 7/8/8
+* Ningguang
+  * lvl 80 --> 80+
+  * Arme 80 --> 90
+  * Aptitudes 7/6/6 --> 7/8/8
+* Beidou
+  * 70 --> 80+
+  * Arme 5* --> 90
+  * Aptitudes 3/6/6 --> 8/8/8
+* Bennett
+  * 80 --> 80+
+  * Arme 50 --> 90
+  * Aptitudes 1/2/6 --> 1/2/8
+* Gorou
+  * 70 --> 80+
+  * Arme 60 --> 80
+  * Aptitudes 1/6/5 --> 1/8/8
+* Yun Jin
+  * 60 --> 80+
+  * Arme 20 --> 80
+  * Aptitudes 1/4/4 --> 1/4/8
+* Kujou Sara
+  * 60 --> 80+
+  * Aptitudes 1/1/1 --> 1/8/8
+* Kaeya
+  * lvl 80 --> 80+
+* Shogun Raiden
+  * Aptitudes 6/7/7 -> 8/8/8
+* Sucrose
+  * lvl 80 --> 80+
+  * Aptitudes 3/6/6 --> 3/8/8
+* Hu Tao
+  * Aptitudes 7/7/6 --> 8/8/8
+* Eula
+  * Aptitudes 7/7/7 --> 8/8/8
+* Diluc
+  * lvl 80 --> 80+
+  * Aptitudes 7/6/7/ --> 7/7/8
+* Noëlle
+  * lvl 80 --> 80+
+  * Arme --> 4*
+  * Aptitudes 6/6/6 --> 7/7/7
+* Rosalia
+  * lvl 80 --> 80+
+  * arme 70 --> 80
+  * Aptitudes 2/6/6 --> 2/7/7
+* Diona
+  * Oué nan
+* Fischl
+  * 80 --> 80+
+  * arme 80 --> 90
+  * Aptitudes 7/6/6 --> 7/8/8
+* Razor
+  * 80 --> 80+
+  * arme 40 --> 90
+  * Aptitudes 6/6/5 --> 8/8/8
+* Xingqiu
+  * Aptitudes 1/5/6 --> 1/5/8
+* Barbara
+  * 80 --> 80+
+  * Aptitudes 2/6/6 --> 2/8/8
+* Thomas
+  * 80 --> 80+
+  * Aptitudes 2/6/6 --> 2/8/8
+* Xiangling
+  * 80 --> 80+
+  * Aptitudes 1/7/7 --> 1/8/8
 
-* [Hu Tao](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Hu_Tao)
-* [Xingqiu](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Xingqiu)
-* [Thomas](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Thomas)
-* [Ningguang](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Ningguang)
-
-## Yoimyia Team
-
-* [Yoimiya](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Yoimiya)
-* [Shogun](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Shogun)
-* [Bennett](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Bennett)
-* [Noëlle](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Noëlle)
-
-## Eula Team
-
-* [Eula](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Eula)
-* [Fishl](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Fishl)
-* [Rosaria](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Rosaria)
-* [Barbara](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Barbara)
-
-## Floor 11 Team
-
-* [Xingqiu](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Xingqiu)
-* [Sucrose](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Sucrose)
-* [Hu Tao](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Hu_Tao)
-* [Thomas](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Thomas)
-
-+++++++++
-
-* [Barbara](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Barbara)
-* [Diona](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Diona)
-* [Eula](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Eula)
-* [Shogun](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Shogun)
-
-# Need
-
-* Artefact Thomas
-* Artefact Sucrose
-* Artefact Barbara
-* Artefact Diona
-* Artefact Barbara
-* Lvl arme Diona
-* lvl arme Thomas
-* Rafinnement Arme Shogun
-
-# Summary
-
-# [Week 45](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Week_45)
-# [Week 46](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Week_46)
-# [Week 47](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Week_47)
-# [Week 48](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Week_48)
-# [Week 49](https://kayht.github.io/Kayht_Organizer/Genshin_Impact/Week_49)
 
 # Summon summary
 
