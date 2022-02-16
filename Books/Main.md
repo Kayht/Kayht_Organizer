@@ -49,6 +49,8 @@
 * [Les gens heureux lisent et boivent du café](https://www.leslibraires.fr/livre/15651600-les-gens-heureux-lisent-et-boivent-du-cafe-agnes-martin-lugand-pocket)
 * [*Premier Sang*](https://www.leslibraires.fr/livre/18933089-premier-sang-amelie-nothomb-albin-michel)
 * [*S'adapter*](https://www.editions-stock.fr/livres/la-bleue/sadapter-9782234089549)
+* [Comedian rhapsodie](https://www.babelio.com/livres/VDB-Comedian-rhapsodie/1356363)
+* Otage Clare Mackintosh
 
 ## Science
 
