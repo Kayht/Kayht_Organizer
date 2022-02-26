@@ -15,12 +15,12 @@
 * L'étranger (**31.01.2022**)
 * Leviathan (**30.01.2022**)
 * Ocarina of time (**05.02.2022**)
-* TLOTR Tome 3 (28.01.2022 - fin mars)
-* Amélie Nothomb ou D'adapter (début avril)
-* Les enfants de Hurin (fin mars)
-* Amélie Nothomb ou D'adapter (mi mai)
-* La cinquième saison (début mai)
-
+* TLOTR Tome 3 (28.01.2022 - **25.02.2022**)
+* Amélie Nothomb (début mars)
+* Les enfants de Hurin (mi mars)
+* S'adapter (fin mars)
+* La cinquième saison (mi avril)
+* Comedian rhapsodie (fin avril)
 
 # List of book to read
 
@@ -31,8 +31,9 @@
 * ***The Hobbit***
 * ***TLOTR Tome 1***
 * ***TLOTR Tome 2***
-* *TLOTR Tome 3*
+* ***TLOTR Tome 3***
 * *Les enfants de Hurin*
+* *Le Silmarillion*
 
 ### GoT
 
@@ -49,7 +50,7 @@
 * [Les gens heureux lisent et boivent du café](https://www.leslibraires.fr/livre/15651600-les-gens-heureux-lisent-et-boivent-du-cafe-agnes-martin-lugand-pocket)
 * [*Premier Sang*](https://www.leslibraires.fr/livre/18933089-premier-sang-amelie-nothomb-albin-michel)
 * [*S'adapter*](https://www.editions-stock.fr/livres/la-bleue/sadapter-9782234089549)
-* [Comedian rhapsodie](https://www.babelio.com/livres/VDB-Comedian-rhapsodie/1356363)
+* [*Comedian rhapsodie*](https://www.babelio.com/livres/VDB-Comedian-rhapsodie/1356363)
 * Otage Clare Mackintosh
 
 ## Science
