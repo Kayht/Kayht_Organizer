@@ -16,11 +16,13 @@
 * Leviathan (**30.01.2022**)
 * Ocarina of time (**05.02.2022**)
 * TLOTR Tome 3 (28.01.2022 - **25.02.2022**)
-* Amélie Nothomb (début mars)
-* Les enfants de Hurin (mi mars)
-* S'adapter (fin mars)
-* La cinquième saison (mi avril)
-* Comedian rhapsodie (fin avril)
+* Amélie Nothomb (26.02.2022 - **27.02.2022**)
+* La cinquième saison (28.02.2022 - **13.03.2022**)
+* La porte de cristal (14.03.2022 - )
+* Les cieux pétrifiés (mi avril)
+* S'adapter (fin avril)
+* Les enfants de Hurin (mi mai)
+* Comedian rhapsodie (fin mai)
 
 # List of book to read
 
@@ -41,7 +43,7 @@
 
 ### Autres
 
-* *La cinquième saison*
+* **La cinquième saison**
 
 ## Littérature
 
