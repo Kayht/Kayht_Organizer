@@ -18,11 +18,15 @@
 * TLOTR Tome 3 (28.01.2022 - **25.02.2022**)
 * Amélie Nothomb (26.02.2022 - **27.02.2022**)
 * La cinquième saison (28.02.2022 - **13.03.2022**)
-* La porte de cristal (14.03.2022 - )
-* Les cieux pétrifiés (mi avril)
-* S'adapter (fin avril)
-* Les enfants de Hurin (mi mai)
+* La porte de cristal (14.03.2022 - **27.03.2022**)
+
+# Plan
+
+* Les cieux pétrifiés (27.03.2022 - 10.04.2022)
+* S'adapter (11.04.2022 - 14.04.2022)
+* Fondations Tome I (15.04.2022 - )
 * Comedian rhapsodie (fin mai)
+* Les enfants de Hurin (mi mai)
 
 # List of book to read
 
@@ -44,6 +48,7 @@
 ### Autres
 
 * **La cinquième saison**
+* **La porte de cristal**
 
 ## Littérature
 
