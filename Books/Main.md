@@ -24,9 +24,11 @@
 
 * Les cieux pétrifiés (27.03.2022 - 10.04.2022)
 * S'adapter (11.04.2022 - 14.04.2022)
-* Fondations Tome I (15.04.2022 - )
-* Comedian rhapsodie (fin mai)
-* Les enfants de Hurin (mi mai)
+* Fondations Tome I (15.04.2022 - 22.04.2022)
+* Comedian rhapsodie (23.04.2022 - 29.04.2022)
+* Fondations Tome II (02.05.2022 - 15.05.2022)
+* Plus de femmes en politique (16.05.2022 - 20.05.2022)
+* Les enfants de Hurin ()
 
 # List of book to read
 
